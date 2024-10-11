@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Copy all .html files to the parent directory
 cp -u *.html ../
