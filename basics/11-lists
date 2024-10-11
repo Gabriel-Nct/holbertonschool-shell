@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /boot | tr -s ' ' | cut -d ' ' -f 1-5,9
+ls -la . .. /boot
