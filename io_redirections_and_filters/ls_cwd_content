@@ -1,0 +1,19 @@
+total 68
+-rw-r--r-- 1 root root   12 Oct 15 12:16 *\'"Best School"'\*$\?\*\*\*\*\*:)
+drwxr-xr-x 2 root root 4096 Oct 15 15:06 .
+drwxr-xr-x 6 root root 4096 Oct 15 09:14 ..
+-rwxr-xr-x 1 root root   32 Oct 15 09:21 0-hello_world
+-rwxr-xr-x 1 root root   28 Oct 15 11:54 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Oct 15 11:21 2-hellofile
+-rwxr-xr-x 1 root root   39 Oct 15 11:23 3-twofiles
+-rwxr-xr-x 1 root root   35 Oct 15 11:26 4-lastlines
+-rwxr-xr-x 1 root root   35 Oct 15 11:29 5-firstlines
+-rwxr-xr-x 1 root root   40 Oct 15 14:37 6-third_line
+-rwxr-xr-x 1 root root   99 Oct 15 15:05 7-file
+-rwxr-xr-x 1 root root   36 Oct 15 15:06 8-cwd_state
+-rw-r--r-- 1 root root   36 Oct 15 09:15 README.md
+-rw-r--r-- 1 root root   12 Oct 15 12:01 \*\"Best School\"\'\*$\?*****:)
+-rw-r--r-- 1 root root   12 Oct 15 11:58 \*\"Best School\"\*$\?*****:)
+-rw-r--r-- 1 root root   12 Oct 15 14:57 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Oct 15 12:04 \*\\Best School'\*?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Oct 15 15:06 ls_cwd_content
