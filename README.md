@@ -1,6 +1,7 @@
 Description
 
 Ce dépôt explore l'utilisation du shell Unix à travers plusieurs tâches, couvrant des notions essentielles comme la navigation, les permissions, les variables d’environnement, et les redirections d’entrées/sorties. Il permet d'acquérir une maîtrise des commandes de base et avancées pour l’automatisation et la gestion des fichiers en ligne de commande.
+
 Structure du Dépôt
 
     basics : Commandes de base du shell pour la navigation et la manipulation de fichiers.
