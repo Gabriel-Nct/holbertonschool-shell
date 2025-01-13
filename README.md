@@ -1,41 +1,73 @@
-Description
+# Unix Shell Projects - Holberton School
 
-Ce dépôt explore l'utilisation du shell Unix à travers plusieurs tâches, couvrant des notions essentielles comme la navigation, les permissions, les variables d’environnement, et les redirections d’entrées/sorties. Il permet d'acquérir une maîtrise des commandes de base et avancées pour l’automatisation et la gestion des fichiers en ligne de commande.
+## Table of Contents
 
-Structure du Dépôt
+1.  [Description](#description)
+2.  [Repository Structure](#repository-structure)
+3.  [Learning Objectives](#learning-objectives)
+4.  [Executing Scripts](#executing-scripts)
+5.  [Requirements](#requirements)
+6.  [Contribution Guidelines](#contribution-guidelines)
 
-    basics : Commandes de base du shell pour la navigation et la manipulation de fichiers.
-    permissions : Gestion des permissions des fichiers et répertoires.
-    io_redirections_and_filters : Utilisation des redirections et des filtres pour manipuler l’entrée et la sortie.
-    init_files_variables_and_expansions : Manipulation des fichiers d'initialisation, variables, et expansions de shell.
-    0-alias : Gestion des alias pour simplifier les commandes.
-    0-hello_world : Premières commandes pour afficher du texte.
-    4-global_variables : Utilisation et modification des variables globales.
-    5-execute : Exécution de scripts et utilisation des commandes avancées.
+----------
 
-Objectifs d'Apprentissage
+## Description
 
-Les projets de ce dépôt couvrent les compétences essentielles pour travailler efficacement avec un shell Unix :
+This repository delves into the use of the Unix shell through various tasks, covering essential concepts such as navigation, file permissions, environment variables, and input/output redirections. The goal is to master basic and advanced commands for automation and file management in the command line.
 
-    Comprendre et utiliser les commandes de base du shell.
-    Manipuler les permissions des fichiers et utilisateurs.
-    Maîtriser les redirections d’entrée et de sortie ainsi que les pipes.
-    Manipuler les variables d'environnement et les alias pour des scripts automatisés.
-    Exécuter des scripts et gérer les processus.
+----------
 
-Exécution des Scripts
+## Repository Structure
 
-Les fichiers peuvent être exécutés directement depuis le shell en accordant les permissions nécessaires :
+-   **`basics`**: Basic shell commands for navigation and file manipulation.
+-   **`permissions`**: Managing file and directory permissions.
+-   **`io_redirections_and_filters`**: Utilizing redirections and filters to manipulate input and output.
+-   **`init_files_variables_and_expansions`**: Working with initialization files, variables, and shell expansions.
+-   **`0-alias`**: Managing aliases to simplify commands.
+-   **`0-hello_world`**: Introduction to basic commands for displaying text.
+-   **`4-global_variables`**: Using and modifying global variables.
+-   **`5-execute`**: Executing scripts and using advanced commands.
 
+----------
+
+## Learning Objectives
+
+This repository covers essential skills for working efficiently with a Unix shell:
+
+-   Understanding and using basic shell commands.
+-   Managing file and user permissions.
+-   Mastering input/output redirections and pipes.
+-   Manipulating environment variables and aliases for automated scripting.
+-   Executing scripts and managing processes.
+
+----------
+
+## Executing Scripts
+
+Scripts can be executed directly from the shell after setting the appropriate permissions:
+```bash
 chmod u+x <script.sh>
 ./<script.sh>
+```
 
-Prérequis
+----------
 
-    Respect du style de codage et de bonnes pratiques en shell.
-    Les scripts doivent être fonctionnels et clairs.
-    Utilisation recommandée de vi, vim, ou emacs pour la modification des fichiers.
+## Requirements
 
-Contribution
+-   Adherence to proper coding styles and shell scripting best practices.
+-   Scripts must be functional, clear, and portable.
+-   The use of `vi`, `vim`, or `emacs` is recommended for editing files.
 
-Pour contribuer, créez une branche dédiée, apportez vos modifications, et soumettez une pull request. Assurez-vous de tester vos scripts et de vérifier leur portabilité.
+----------
+
+
+## Contribution Guidelines
+
+To contribute:
+
+1.  Create a dedicated branch for your changes.
+2.  Implement your modifications and ensure they follow shell scripting best practices.
+3.  Test your scripts for functionality and portability.
+4.  Submit a pull request for review.
+
+Please ensure all contributions are properly tested and respect the repository’s guidelines.
